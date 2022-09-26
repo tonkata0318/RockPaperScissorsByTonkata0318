@@ -54,16 +54,6 @@ The computer chooses a random option,then reveals the winner.
 ![image](https://user-images.githubusercontent.com/51849947/192256276-58026578-7b26-4434-8b98-9af370f7c504.png)
 
 
-##Live Demo 
+## Live Demo 
 
-You can play the game directly fomr the link below.
-Thats the image fo the site and afterthat is the link 
-
-
-
-
-![image](https://user-images.githubusercontent.com/51849947/192261521-6d0db22c-54a6-4189-8f1e-ca61e329f2b9.png)
-
-
-
-https://replit.com/@darkphoenix18/RockPaperScissors-Game-by-Toni#Main.cs
+You can play the game directly in your Web Browser here:
